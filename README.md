@@ -42,8 +42,6 @@ A proposta foi praticar conceitos de:
 
 O design foi inspirado no universo de Naruto, com foco em uma interface moderna e visual atrativo.
 
-*(Aqui você pode adicionar mais imagens depois, tipo prints ou GIF)*
-
 ---
 
 ## 📌 Observações

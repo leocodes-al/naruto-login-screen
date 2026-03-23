@@ -33,7 +33,7 @@ Este projeto consiste em uma tela de login estilizada com tema do anime Naruto S
 A proposta foi praticar conceitos de:
 
 - Estruturação com HTML
-- Estilização com CSS (layout, responsividade e efeitos)
+- Estilização com CSS (layout e efeitos)
 - Organização de projeto para portfólio
 
 ---

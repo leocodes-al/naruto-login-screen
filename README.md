@@ -46,7 +46,7 @@ O design foi inspirado no universo de Naruto, com foco em uma interface moderna 
 
 ## 📌 Observações
 
-Este é um projeto de estudo com fins educacionais.
+Este projeto foi desenvolvido como prática de aprendizado, com base em aulas e adaptações próprias.
 
 ---
 
